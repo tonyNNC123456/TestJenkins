@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://192.168.3.179/JD/20190111/Lottery_JD_V1.1.25_release-jd-20190111-1904_20190111-190621.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.huojin.yiqu2</string>
+<key>bundle-version</key>
+<string>1.1.25</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>金豆</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
