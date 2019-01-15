@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://192.168.3.179/C5Network/20190115/Lottery_C5Network_V1.1.27_release-C5Net-20190115_20190115-141443.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.huojin.c5network</string>
+<key>bundle-version</key>
+<string>1.1.27</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>创伍网</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
