@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://192.168.3.179/cslm/20190123/Lottery_cslm_V1.1.27_release-cslm-20190123_20190123-130003.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.huojin.cslm1</string>
+<key>bundle-version</key>
+<string>1.1.27</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>创世联盟</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
